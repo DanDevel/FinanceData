@@ -49,6 +49,9 @@ site: https://developers.anbima.com.br/pt/documentacao/precos-indices/apis-de-pr
 
 register page: https://admin-developers.anbima.com.br/api-portal/user/register 
 
+Doc: https://developers.anbima.com.br/pt/documentacao/visao-geral/autenticacao/#protocolo-de-transporte
+
+
 ## CPA-20
 site:
  https://www.anbima.com.br/pt_br/educar/educar.htm
