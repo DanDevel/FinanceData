@@ -19,3 +19,7 @@ Comparador de Debêntures ANBIMA: https://data.anbima.com.br/ferramentas/compara
 ## IDA
 
 Consulta IDA : https://www.anbima.com.br/pt_br/informar/consulta-ida.htm 
+
+https://data.anbima.com.br/debentures/PEJA11/caracteristicas
+
+dpownload da planilha d23dez15: https://data.anbima.com.br/debentures?view=precos&page=1&size=20&field=codigo_b3&order=desc& 
