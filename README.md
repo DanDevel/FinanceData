@@ -51,6 +51,8 @@ register page: https://admin-developers.anbima.com.br/api-portal/user/register
 
 Doc: https://developers.anbima.com.br/pt/documentacao/visao-geral/autenticacao/#protocolo-de-transporte
 
+Swagger API: https://developers.anbima.com.br/pt/documentacao/fundos/swagger-fundos/#/Fundos/findByCodigoFundoUsingGET
+
 
 ## CPA-20
 site:
