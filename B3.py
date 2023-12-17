@@ -3,6 +3,8 @@ import pandas_datareader as pdr
 def obter_dados_ativo_b3(ticker):
     # Use 'yahoo' como source para obter dados da B3
     dados = pdr.get_data_yahoo(f"{ticker}.SA")
+    print('dados::::::: ')
+    print(dados)
     return dados
 
 if __name__ == "__main__":
