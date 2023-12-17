@@ -49,3 +49,5 @@ site: https://developers.anbima.com.br/pt/documentacao/precos-indices/apis-de-pr
 
 register page: https://admin-developers.anbima.com.br/api-portal/user/register 
 
+## CPA-20
+site: https://www.anbima.com.br/pt_br/educar/certificacoes/cpa-20.htm
