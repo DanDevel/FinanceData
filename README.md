@@ -22,6 +22,9 @@ Consulta IDA : https://www.anbima.com.br/pt_br/informar/consulta-ida.htm
 
 https://data.anbima.com.br/debentures/PEJA11/caracteristicas
 
+https://data.anbima.com.br/debentures/PEJA11/precos
+
+
 download da planilha d23dez15: https://data.anbima.com.br/debentures?view=precos&page=1&size=20&field=codigo_b3&order=desc& 
 
 link pure text: https://www.anbima.com.br/informacoes/merc-sec-debentures/arqs/db231215.txt 
