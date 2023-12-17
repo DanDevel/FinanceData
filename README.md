@@ -46,3 +46,6 @@ link: https://www.anbima.com.br/pt_br/informar/consulta-ida-liq.htm
 
 ## ANBIMA Developers
 site: https://developers.anbima.com.br/pt/documentacao/precos-indices/apis-de-precos/debentures/#mercado-secund%C3%A1rio
+
+register page: https://admin-developers.anbima.com.br/api-portal/user/register 
+
